@@ -1,5 +1,5 @@
 //space-shinkage-ryu.com/support/
-import Link from 'next/Link'
+import Link from 'next/link'
 
 function SupportPage () {
   return ( 

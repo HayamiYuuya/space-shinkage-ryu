@@ -1,9 +1,5 @@
 .main {
-  display: flex;
-  height: calc(100vh - 64px);
-  background-color: white;
-}
-
-.main > section {
-  padding: 32px;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
 }
